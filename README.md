@@ -1,4 +1,6 @@
 <h1 style="text-align: center;">Career Hub</h1>
+Website Link : https://gaping-lawyer.surge.sh
+
 <h2>Features</h2>
 <ul>
   <li>Apply for the job</li>
@@ -15,3 +17,6 @@
   <li><a href="https://daisyui.com/">DaisyUI</a></li>
   <li>LocalStorage</li>
 </ul>
+
+## Details
+Welcome to the CareerHub this is a job searching platform. This website empowers users to seamlessly apply for jobs, manage their applied job list, and efficiently filter through their applications for a streamlined job seeking experience.
